@@ -1,6 +1,0 @@
-module.exports = {
-    twilio: {
-        accountSid:'PNaec21402f0cc081c61028bd10c76e9de',
-        authToken:'1fb43fff6604e394cfc8f42c06c66adc'
-    }
-};
